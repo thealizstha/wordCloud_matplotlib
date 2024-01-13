@@ -1,0 +1,1 @@
+wordcloud = WordCloud().generate(text_data)
